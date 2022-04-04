@@ -1,0 +1,22 @@
+.container {
+    position: relative;
+}
+
+.swiperNavPrevRef {
+    cursor: pointer;
+    position: absolute;
+    bottom: 40px;
+    right: 360px;
+    z-index: 1;
+}
+
+.swiperNavNextRef {
+    color: red !important;
+    fill: red !important;
+    stroke: red !important;
+    cursor: pointer;
+    position: absolute;
+    bottom: 40px;
+    right: 300px;
+    z-index: 1;
+}
